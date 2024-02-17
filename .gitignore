@@ -41,3 +41,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+installer/compareprice.exe
+installer/compareprice 1.0.iss

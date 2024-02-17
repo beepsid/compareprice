@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "compareprice" "\0"
+            VALUE "CompanyName", "Senzaei" "\0"
+            VALUE "FileDescription", "Comparing prices of items" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "compareprice" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "compareprice.exe" "\0"
-            VALUE "ProductName", "compareprice" "\0"
+            VALUE "ProductName", "Compare-price" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
