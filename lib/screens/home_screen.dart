@@ -1,6 +1,6 @@
 import 'package:compareprice/utils/app_styles.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart'; // Import for BottomNavigationBar
+// import 'package:flutter/widgets.dart'; // Import for BottomNavigationBar
 
 class Homescreen extends StatefulWidget {
   const Homescreen({super.key});
